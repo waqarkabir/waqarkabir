@@ -26,13 +26,14 @@ I love to read books and code.
 ### Numbers
 ![waqarkabir's Stats](https://github-readme-stats.vercel.app/api?username=waqarkabir&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![waqarkabir's Streak](https://github-readme-streak-stats.herokuapp.com/?user=waqarkabir&theme=darcula&hide_border=true)
 
 ![waqarkabir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waqarkabir&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqar-kabir-96b8b984/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]
-(https://www.twitter.com/waqarkabir1) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-
+square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waqar-kabir-96b8b984/)
+
+[![Twitter](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/waqarkabir1)
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/waqarkabir)
