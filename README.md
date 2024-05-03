@@ -12,7 +12,7 @@
 
 I am a Full Stack Developer with a huge love for ASP.Net, .Net Core, C#, Blazor, JQuery, Typescript, RDMS, MS SQL Server, Oracle Database, Web API, and System Architecture. Currently, **I'm open to work and employment opportunities**.
 
-I founded [CodeWithMind.com](https://www.codewithmind.com), one of the most popular and adored Web Development blogs. I actively code on HTML themes, ASP.Net, MS SQL Server, and APIs (in-house, end-user products, and consumers) every day.
+I actively code on HTML themes, ASP.Net, MS SQL Server, and APIs (in-house, end-user products, and consumers) every day.
 
 I love to read books and code.
 
