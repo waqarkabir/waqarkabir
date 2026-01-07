@@ -11,7 +11,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-I am a Full Stack .NET Developer with over six years of experience, specializing in C#, ASP.NET Core MVC, SQL Server, Oracle, JavaScript, and jQuery. Currently, **I'm open to work and employment opportunities**.
+I am a Full Stack .NET Developer with over 8 years of experience, specializing in C#, ASP.NET Core MVC, SQL Server, Oracle, JavaScript, and jQuery. Currently, **I'm open to work and employment opportunities**.
 
 I actively work with web development, web design, web application development, database development, DevOps, testing, and deployment, ensuring robust and scalable solutions.
 
@@ -26,12 +26,6 @@ I love to read books and code.
 - :partying_face: Fun fact: I love helping others, eating, and traveling.
 - :wrench: Tools - MS Visual Studio, VSCode, MS SQL Server, Oracle Database, Azure DevOps and Docker
 - :busts_in_silhouette: I actively post on LinkedIn - [Waqar Kabir](https://www.linkedin.com/in/waqar-kabir-96b8b984)
-
-### Numbers
-![waqarkabir's Stats](https://github-readme-stats.vercel.app/api?username=waqarkabir&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-
-
-![waqarkabir's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waqarkabir&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 ### Where to find me
 
