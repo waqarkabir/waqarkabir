@@ -1,6 +1,6 @@
 <h1>👋 Hi there! I'm Waqar Kabir</h1>
 
-🚀 **Senior .NET Developer | Enterprise Web Application Specialist | Microsoft Certified | MCS**
+🚀 **.NET Developer | ASP.NET Core, C#, SQL Server & Web APIs | Business Applications & Backend Development | Microsoft Certified | MCS**
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
