@@ -1,34 +1,65 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1>👋 Hi there! I'm Waqar Kabir</h1>
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+🚀 **Senior .NET Developer | Enterprise Web Application Specialist | Microsoft Certified | MCS**
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=flat-square&logo=blazor&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 
-I am a Full Stack .NET Developer with over 8 years of experience, specializing in C#, ASP.NET Core MVC, SQL Server, Oracle, JavaScript, and jQuery. Currently, **I'm open to work and employment opportunities**.
+## 💫 About Me
 
-I actively work with web development, web design, web application development, database development, DevOps, testing, and deployment, ensuring robust and scalable solutions.
+I'm a Senior .NET Developer with 8+ years of experience building secure, scalable enterprise web applications for government agencies and healthcare institutions. I also run my own software development business, delivering custom solutions to clients online. My expertise spans:
 
-I love to read books and code.
+- 🏛️ Enterprise Web Application Architecture
+- 🔌 RESTful API Design & Development
+- 🗄️ Database Design & Optimization
+- 🔄 CI/CD Pipeline Automation
+- 🐳 Containerized Deployments
 
-- :fireworks: I am a technical content writer and regularly write about web development, C#, and .NET technologies.
-- 🌱 I’m constantly learning and believe every day is a new learning opportunity.
-- 👯 I’m open to work and employment opportunities (remote and relocation).
-- 💬 Ask me about .NET, C#, SQL Server and web application development.
-- 📫 Feel free to reach out at - [waqarkabir10 at gmail dot com]
-- 😄 Pronouns: He, Smart & Happy 😄
-- :partying_face: Fun fact: I love helping others, eating, and traveling.
-- :wrench: Tools - MS Visual Studio, VSCode, MS SQL Server, Oracle Database, Azure DevOps and Docker
-- :busts_in_silhouette: I actively post on LinkedIn - [Waqar Kabir](https://www.linkedin.com/in/waqar-kabir-96b8b984)
+## 🔧 Tech Stack
+
+- **Backend:** C#, ASP.NET Core (MVC & Web API), .NET
+- **Frontend:** Blazor, React, JavaScript, TypeScript, jQuery, HTML5, CSS3, Bootstrap
+- **Databases:** SQL Server, Oracle
+- **DevOps & CI/CD:** Azure DevOps, Docker, CI/CD Pipelines
+- **Tools:** Visual Studio, VS Code, SSMS, Oracle Database
+
+## 🌱 Currently diving deep into
+
+- Clean Architecture & Domain-Driven Design
+- Microservices with .NET and Docker
+- Advanced Blazor patterns
+- Performance tuning for SQL Server and Web APIs
+- Cloud Computing with AWS & Azure
+- Cloud-native deployments on Azure
+
+## 📈 My contributions include
+
+- Building mission-critical systems for government and healthcare sectors
+- Designing and delivering robust, high-performance Web APIs
+- Migrating and modernizing legacy applications to ASP.NET Core
+- Optimizing database queries and stored procedures for speed and reliability
+- Automating build, test, and deployment workflows
+- Writing technical content on C#, .NET, and web development
+
+## 🎓 Credentials
+
+- Master of Computer Science (MCS)
+- Microsoft Certified Professional
+
+## 💬 Let's connect and collaborate on building reliable, enterprise-grade software!
+
+Ask me about .NET, C#, SQL Server, and web application development. I'm open to freelance projects as well as remote and relocation opportunities.
+
+⚡ **Fun fact:** I love reading books, writing code, helping others, eating, and traveling, usually in that order of chaos.
+
+📫 **Reach me:** [waqarkabir10@gmail.com](mailto:waqarkabir10@gmail.com) | [LinkedIn](https://www.linkedin.com/in/waqar-kabir-96b8b984)
 
 ### Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/waqar-kabir-96b8b984)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:waqarkabir.1)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/waqarkabir)
