@@ -49,8 +49,8 @@ I'm a Senior .NET Developer with 8+ years of experience building secure, scalabl
 ## 🎓 Credentials
 
 - Master of Computer Science (MCS)
-- Microsoft Certified Professional
-
+- Microsoft Foundational C# Certification
+- 
 ## 💬 Let's connect and collaborate on building reliable, enterprise-grade software!
 
 Ask me about .NET, C#, SQL Server, and web application development. I'm open to freelance projects as well as remote and relocation opportunities.
